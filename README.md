@@ -1,4 +1,4 @@
-# JavascriptPortfolio2
+# JavascriptPortfolio2 designed by jonasschmedtmann
 To check this website
 Id js password 1111
 Id jd password 2222
